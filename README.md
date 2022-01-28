@@ -6,4 +6,4 @@
 
 </ul>
 <h2>WordPress Site</h2>
-<img src="site.PNG"/>
+<img src="Site.PNG"/>
